@@ -1,0 +1,13 @@
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/ContaDeUmAteDez/bin/Debug/netcoreapp3.1/ContaDeUmAteDez
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/ContaDeUmAteDez/bin/Debug/netcoreapp3.1/ContaDeUmAteDez.deps.json
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/ContaDeUmAteDez/bin/Debug/netcoreapp3.1/ContaDeUmAteDez.runtimeconfig.json
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/ContaDeUmAteDez/bin/Debug/netcoreapp3.1/ContaDeUmAteDez.runtimeconfig.dev.json
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/ContaDeUmAteDez/bin/Debug/netcoreapp3.1/ContaDeUmAteDez.dll
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/ContaDeUmAteDez/bin/Debug/netcoreapp3.1/ContaDeUmAteDez.pdb
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/ContaDeUmAteDez/obj/Debug/netcoreapp3.1/ContaDeUmAteDez.csprojAssemblyReference.cache
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/ContaDeUmAteDez/obj/Debug/netcoreapp3.1/ContaDeUmAteDez.AssemblyInfoInputs.cache
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/ContaDeUmAteDez/obj/Debug/netcoreapp3.1/ContaDeUmAteDez.AssemblyInfo.cs
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/ContaDeUmAteDez/obj/Debug/netcoreapp3.1/ContaDeUmAteDez.csproj.CoreCompileInputs.cache
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/ContaDeUmAteDez/obj/Debug/netcoreapp3.1/ContaDeUmAteDez.dll
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/ContaDeUmAteDez/obj/Debug/netcoreapp3.1/ContaDeUmAteDez.pdb
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/ContaDeUmAteDez/obj/Debug/netcoreapp3.1/ContaDeUmAteDez.genruntimeconfig.cache
